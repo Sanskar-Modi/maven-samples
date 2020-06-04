@@ -14,7 +14,7 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-           <java.home>C:\Program Files\Java\jdk1.8.0_121</java.home>
+           <java.home>C:\Program Files\Java\jdk1.8.0_121\bin\javac</java.home>
           
   </properties>
 
