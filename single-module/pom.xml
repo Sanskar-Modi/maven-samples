@@ -24,6 +24,7 @@
       <name>Test Project Site</name>
       <url>file:///tmp/single-module-site</url>
     </site>
+           
   </distributionManagement>
 
   <build>
